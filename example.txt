@@ -1,0 +1,430 @@
+this is the top ten list for one word phrases
+1'st" and"	 with score of	:8971
+frequency_in_Huckleberry_Finn :6050
+frequency_in_Tom_Sawyer :2921
+
+2'st" the"	 with score of	:8190
+frequency_in_Huckleberry_Finn :4708
+frequency_in_Tom_Sawyer :3482
+
+3'st" a"	 with score of	:4704
+frequency_in_Huckleberry_Finn :2935
+frequency_in_Tom_Sawyer :1769
+
+4'st" to"	 with score of	:4654
+frequency_in_Huckleberry_Finn :2903
+frequency_in_Tom_Sawyer :1751
+
+5'st" of"	 with score of	:3288
+frequency_in_Huckleberry_Finn :1733
+frequency_in_Tom_Sawyer :1555
+
+6'st" I"	 with score of	:3094
+frequency_in_Huckleberry_Finn :2476
+frequency_in_Tom_Sawyer :618
+
+7'st" was"	 with score of	:3066
+frequency_in_Huckleberry_Finn :1942
+frequency_in_Tom_Sawyer :1124
+
+8'st" in"	 with score of	:2303
+frequency_in_Huckleberry_Finn :1367
+frequency_in_Tom_Sawyer :936
+
+9'st" he"	 with score of	:2222
+frequency_in_Huckleberry_Finn :1372
+frequency_in_Tom_Sawyer :850
+
+10'st" it"	 with score of	:2061
+frequency_in_Huckleberry_Finn :1427
+frequency_in_Tom_Sawyer :634
+
+
+
+this is the top ten list for two word phrases
+1'st" in the"	 with score of	:747
+frequency_in_Huckleberry_Finn :437
+frequency_in_Tom_Sawyer :310
+
+2'st" of the"	 with score of	:745
+frequency_in_Huckleberry_Finn :362
+frequency_in_Tom_Sawyer :383
+
+3'st" and the"	 with score of	:491
+frequency_in_Huckleberry_Finn :314
+frequency_in_Tom_Sawyer :177
+
+4'st" to the"	 with score of	:427
+frequency_in_Huckleberry_Finn :248
+frequency_in_Tom_Sawyer :179
+
+5'st" it was"	 with score of	:359
+frequency_in_Huckleberry_Finn :252
+frequency_in_Tom_Sawyer :107
+
+6'st" on the"	 with score of	:311
+frequency_in_Huckleberry_Finn :223
+frequency_in_Tom_Sawyer :88
+
+7'st" and then"	 with score of	:308
+frequency_in_Huckleberry_Finn :206
+frequency_in_Tom_Sawyer :102
+
+8'st" was a"	 with score of	:301
+frequency_in_Huckleberry_Finn :188
+frequency_in_Tom_Sawyer :113
+
+9'st" and I"	 with score of	:274
+frequency_in_Huckleberry_Finn :238
+frequency_in_Tom_Sawyer :36
+
+10'st" out of"	 with score of	:272
+frequency_in_Huckleberry_Finn :195
+frequency_in_Tom_Sawyer :77
+
+
+
+this is the top ten list for three word phrases
+1'st" out of the"	 with score of	:85
+frequency_in_Huckleberry_Finn :62
+frequency_in_Tom_Sawyer :23
+
+2'st" was going to"	 with score of	:65
+frequency_in_Huckleberry_Finn :53
+frequency_in_Tom_Sawyer :12
+
+3'st" there was a"	 with score of	:51
+frequency_in_Huckleberry_Finn :26
+frequency_in_Tom_Sawyer :25
+
+4'st" a couple of"	 with score of	:44
+frequency_in_Huckleberry_Finn :31
+frequency_in_Tom_Sawyer :13
+
+5'st" by and by"	 with score of	:43
+frequency_in_Huckleberry_Finn :39
+frequency_in_Tom_Sawyer :4
+
+6'st" said it was"	 with score of	:43
+frequency_in_Huckleberry_Finn :36
+frequency_in_Tom_Sawyer :7
+
+7'st" and then he"	 with score of	:40
+frequency_in_Huckleberry_Finn :32
+frequency_in_Tom_Sawyer :8
+
+8'st" the middle of"	 with score of	:39
+frequency_in_Huckleberry_Finn :29
+frequency_in_Tom_Sawyer :10
+
+9'st" the old man"	 with score of	:38
+frequency_in_Huckleberry_Finn :31
+frequency_in_Tom_Sawyer :7
+
+10'st" Project Gutenberg-tm electronic"	 with score of	:37
+frequency_in_Huckleberry_Finn :18
+frequency_in_Tom_Sawyer :19
+
+
+
+this is the top ten list for four word phrases
+1'st" the middle of the"	 with score of	:30
+frequency_in_Huckleberry_Finn :22
+frequency_in_Tom_Sawyer :8
+
+2'st" Project Gutenberg Literary Archive"	 with score of	:27
+frequency_in_Huckleberry_Finn :13
+frequency_in_Tom_Sawyer :14
+
+3'st" the Project Gutenberg Literary"	 with score of	:23
+frequency_in_Huckleberry_Finn :11
+frequency_in_Tom_Sawyer :12
+
+4'st" and by and by"	 with score of	:20
+frequency_in_Huckleberry_Finn :17
+frequency_in_Tom_Sawyer :3
+
+5'st" a kind of a"	 with score of	:19
+frequency_in_Huckleberry_Finn :14
+frequency_in_Tom_Sawyer :5
+
+6'st" Gutenberg Literary Archive Foundation"	 with score of	:19
+frequency_in_Huckleberry_Finn :9
+frequency_in_Tom_Sawyer :10
+
+7'st" in the middle of"	 with score of	:17
+frequency_in_Huckleberry_Finn :13
+frequency_in_Tom_Sawyer :4
+
+8'st" the terms of this"	 with score of	:17
+frequency_in_Huckleberry_Finn :8
+frequency_in_Tom_Sawyer :9
+
+9'st" Project Gutenberg-tm electronic works"	 with score of	:15
+frequency_in_Huckleberry_Finn :7
+frequency_in_Tom_Sawyer :8
+
+10'st" the rest of the"	 with score of	:15
+frequency_in_Huckleberry_Finn :5
+frequency_in_Tom_Sawyer :10
+
+
+
+this is the top ten list for five word phrases
+1'st" the Project Gutenberg Literary Archive"	 with score of	:23
+frequency_in_Huckleberry_Finn :11
+frequency_in_Tom_Sawyer :12
+
+2'st" Project Gutenberg Literary Archive Foundation"	 with score of	:19
+frequency_in_Huckleberry_Finn :9
+frequency_in_Tom_Sawyer :10
+
+3'st" to the Project Gutenberg Literary"	 with score of	:13
+frequency_in_Huckleberry_Finn :6
+frequency_in_Tom_Sawyer :7
+
+4'st" in the middle of the"	 with score of	:12
+frequency_in_Huckleberry_Finn :9
+frequency_in_Tom_Sawyer :3
+
+5'st" the king and the duke"	 with score of	:10
+frequency_in_Huckleberry_Finn :9
+frequency_in_Tom_Sawyer :1
+
+6'st" the terms of this agreement"	 with score of	:9
+frequency_in_Huckleberry_Finn :4
+frequency_in_Tom_Sawyer :5
+
+7'st" a quarter of a mile"	 with score of	:9
+frequency_in_Huckleberry_Finn :7
+frequency_in_Tom_Sawyer :2
+
+8'st" the middle of the river,"	 with score of	:8
+frequency_in_Huckleberry_Finn :7
+frequency_in_Tom_Sawyer :1
+
+9'st" at the head of the"	 with score of	:7
+frequency_in_Huckleberry_Finn :5
+frequency_in_Tom_Sawyer :2
+
+10'st" made up my mind I"	 with score of	:7
+frequency_in_Huckleberry_Finn :6
+frequency_in_Tom_Sawyer :1
+
+
+
+this is the top ten list for six word phrases
+1'st" the Project Gutenberg Literary Archive Foundation"	 with score of	:15
+frequency_in_Huckleberry_Finn :7
+frequency_in_Tom_Sawyer :8
+
+2'st" to the Project Gutenberg Literary Archive"	 with score of	:13
+frequency_in_Huckleberry_Finn :6
+frequency_in_Tom_Sawyer :7
+
+3'st" the owner of the Project Gutenberg-tm"	 with score of	:7
+frequency_in_Huckleberry_Finn :3
+frequency_in_Tom_Sawyer :4
+
+4'st" bound by the terms of this"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+5'st" be bound by the terms of"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+6'st" to be bound by the terms"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+7'st" agree to be bound by the"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+8'st" the terms of this agreement, you"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+9'st" I see it warn't no use"	 with score of	:5
+frequency_in_Huckleberry_Finn :4
+frequency_in_Tom_Sawyer :1
+
+10'st" towards the middle of the river,"	 with score of	:5
+frequency_in_Huckleberry_Finn :4
+frequency_in_Tom_Sawyer :1
+
+
+
+this is the top ten list for seven word phrases
+1'st" to the Project Gutenberg Literary Archive Foundation"	 with score of	:7
+frequency_in_Huckleberry_Finn :3
+frequency_in_Tom_Sawyer :4
+
+2'st" use of anyone anywhere at no cost"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+3'st" the use of anyone anywhere at no"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+4'st" for the use of anyone anywhere at"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+5'st" is for the use of anyone anywhere"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+6'st" eBook is for the use of anyone"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+7'st" This eBook is for the use of"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+8'st" in the public domain in the United"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+9'st" be bound by the terms of this"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+10'st" to be bound by the terms of"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+
+
+this is the top ten list for eight word phrases
+1'st" anyone anywhere at no cost and with almost"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+2'st" of anyone anywhere at no cost and with"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+3'st" use of anyone anywhere at no cost and"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+4'st" the use of anyone anywhere at no cost"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+5'st" for the use of anyone anywhere at no"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+6'st" is for the use of anyone anywhere at"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+7'st" eBook is for the use of anyone anywhere"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+8'st" This eBook is for the use of anyone"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+9'st" to be bound by the terms of this"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+10'st" agree to be bound by the terms of"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+
+
+this is the top ten list for nine word phrases
+1'st" anywhere at no cost and with almost no restrictions"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+2'st" anyone anywhere at no cost and with almost no"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+3'st" of anyone anywhere at no cost and with almost"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+4'st" use of anyone anywhere at no cost and with"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+5'st" the use of anyone anywhere at no cost and"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+6'st" for the use of anyone anywhere at no cost"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+7'st" is for the use of anyone anywhere at no"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+8'st" eBook is for the use of anyone anywhere at"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+9'st" This eBook is for the use of anyone anywhere"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+10'st" agree to be bound by the terms of this"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+
+
+this is the top ten list for ten word phrases
+1'st" anywhere at no cost and with almost no restrictions whatsoever."	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+2'st" anyone anywhere at no cost and with almost no restrictions"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+3'st" of anyone anywhere at no cost and with almost no"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+4'st" use of anyone anywhere at no cost and with almost"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+5'st" the use of anyone anywhere at no cost and with"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+6'st" for the use of anyone anywhere at no cost and"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+7'st" is for the use of anyone anywhere at no cost"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+8'st" eBook is for the use of anyone anywhere at no"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+9'st" This eBook is for the use of anyone anywhere at"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+10'st" at no cost and with almost no restrictions whatsoever. You"	 with score of	:5
+frequency_in_Huckleberry_Finn :2
+frequency_in_Tom_Sawyer :3
+
+
+
